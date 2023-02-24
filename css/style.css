@@ -226,6 +226,19 @@ form {
   width: 800px;
 }
 
+.card-text {
+  color: rgb(255, 217, 0);
+  background-color: rgba(0, 24, 160, 0.966);
+}
+
+.card-text a {
+  text-decoration-line: none;
+}
+
+.card-body {
+  background-color: rgba(0, 24, 160, 0.966);
+}
+
 /****************footer*****************/
 footer {
   background-color: rgba(0, 24, 160, 0.966);
